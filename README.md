@@ -42,3 +42,6 @@ A **Personal Expense Tracker** built using **HTML, CSS, JavaScript, Bootstrap, a
 
 ## 🌐 Live Demo  
 [View the live project here](https://tanushrisv.github.io/personal_expense_tracker/)  
+
+
+© 2025 Tanushri S V. All rights reserved.
