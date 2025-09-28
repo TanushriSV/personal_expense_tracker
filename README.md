@@ -1,35 +1,47 @@
 # Personal Expense Tracker  
 
-A **Personal Expense Tracker** built using **HTML, CSS, and JavaScript**, allowing users to record daily expenses, categorize spending, and track their financial habits with ease.  
+A **Personal Expense Tracker** built using **HTML, CSS, JavaScript, Bootstrap, and Chart.js**, allowing users to add expenses, categorize spending, filter by category, and visualize expenses with charts. The app stores data in **Local Storage** so your expenses remain saved even after refreshing.
 
 ---
 
 ## 🚀 Features  
-- Add, edit, and delete expenses  
-- Categorize expenses (e.g., food, travel, shopping, etc.)  
-- View expense summary in a clean dashboard  
-- Local storage support (data stays saved even after refreshing)  
-- Responsive and user-friendly interface  
+- ➕ Add, edit, and delete expenses  
+- 🏷️ Categorize expenses (Food, Travel, Shopping, Bills, Other)  
+- 🔎 Filter expenses by category  
+- 📊 Visual charts for expense breakdown (bar & doughnut)  
+- 📅 Calendar view to track expenses by date  
+- 💰 Budget progress indicator  
+- 📌 Responsive and user-friendly dashboard  
 
 ---
 
 ## 🛠️ Technologies Used  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, Bootstrap 5, JavaScript  
+- **Icons:** Bootstrap Icons  
+- **Charts:** Chart.js  
+- **Storage:** LocalStorage (for persistent data)  
 - **Version Control:** Git & GitHub  
 
 ---
 
 ## 📸 Screenshots  
 
-### 1. Dashboard  
-![Dashboard](images/Dashboard.png)  
+### 1. Dashboard with Populated List  
+![Dashboard With Populated List](images/Dashboard_With_Populated_list.png)  
 
-### 2. Add Expense  
-![Add Expense](images/Add_Expense.png)  
+### 2. Calendar Feature  
+![Calendar Feature](images/Calender_Feature.png)  
 
-### 3. Expense List  
-![Expense List](images/Expense_List.png)  
+### 3. Filtering by Category  
+![Filtering by Category](images/Filtering_By_Category.png)  
+
+### 4. Visual Charts  
+![Visual Charts](images/Visual_Charts.png)  
 
 ---
-## 🔗 Live Demo
-[View Live Project](https://tanushrisv.github.io/online_banking_payment_system/)
+
+## 🌐 Live Demo  
+[View the live project here](https://tanushrisv.github.io/personal_expense_tracker/)  
+
+   ```bash
+   git clone https://github.com/TanushriSV/personal_expense_tracker.git
